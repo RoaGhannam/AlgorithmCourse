@@ -3,6 +3,6 @@ This repository displays the assignments submitted for this course or any topic 
 
 For the first file, the following is shown :
 
-This code helps to find the factorial of any number enderd by user using two method :
+The code helps to find the factorial of any number enderd by user using two method :
 1. Iterative
 2. Recursive
